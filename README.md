@@ -14,7 +14,7 @@
 <div>
   <h2> :rocket: About the project: </h2>
 
-  <p> JSHunt is a simple project of "exposures" of libs, they are stored in the API and when clicking on the button "Access" the user is taken to a Profile page of lib, where it is possible to access the URL of their github.
+  <p> JSHunt is a simple project of "exposures" of libs, they are stored in the API and when clicking on the button "Access" the user is taken to a lib's Profile page, where it is possible to access the URL of their github.
 
   Its interface was created using the color palette of a DraculaTheme. </p>
 </div>

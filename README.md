@@ -1,17 +1,29 @@
-# 🖥 JSHunt
+<p align="center">
+  <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/theme-docs.svg" alt="A illustration of file that is the @rocketseat/gatsby-theme-docs logo" width="100">
+</p>
+
+<h1 align="center">
+  JSHunt
+</h3>
 
 
-![Starter](https://github.com/bprofiro/assets/blob/master/starter1.png)
+<p align="center">
+  <img src="https://github.com/bprofiro/assets/blob/master/starter1.png"/>  
+</p>
 
-# 🚀  Tecnologias
+<div>
+  <h2> :rocket: About the project: </h2>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+  <p> JSHunt is a simple project of "exposures" of libs, they are stored in the API and when clicking on the button "Access" the user is taken to a Profile page of lib, where it is possible to access the URL of their github.
 
--   [Node.js](https://nodejs.org/en/)
--   [React](https://reactjs.org/)
+  Its interface was created using the color palette of a DraculaTheme. </p>
+</div>
 
-## 💻  Projeto
+<div>
+  <h2> :computer: Techs: </h2>
+   <p> This project was built in just one language: JavaScript, using the following technologies:
 
-O JSHunt é um projeto simples de "exposições" de libs, elas estão armazenadas na API e ao clicar no botão "Acessar" o usuário é levado à uma página de Profile da lib, onde é possível acessar a URL do seu github.
-
-Sua interface foi criada utilizando a paleta de cores de um Dark Theme.
+   -   [Node.js](https://nodejs.org/en/)
+   -   [React](https://reactjs.org/)
+  </p>
+</div>

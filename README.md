@@ -12,16 +12,16 @@
 </p>
 
 <div>
-  <h2> :rocket: About the project: </h2>
+  <h2> :rocket: Sobre o projeto: </h2>
 
-  <p> JSHunt is a simple project of "exposures" of libs, they are stored in the API and when clicking on the button "Access" the user is taken to a lib's Profile page, where it is possible to access the URL of their github.
+  <p> JSHunt é um projeto simples de "exposição" de bibliotecas, elas são armazenadas na API e, ao clicar no botão "Acessar", o usuário é levado à página de perfil de uma biblioteca, onde é possível acessar a URL do seu github.
 
-  Its interface was created using the color palette of a DraculaTheme. </p>
+  Sua interface foi criada usando a paleta de cores de um DraculaTheme. </p>
 </div>
 
 <div>
-  <h2> :computer: Techs: </h2>
-   <p> This project was built in just one language: JavaScript, using the following technologies:
+  <h2> :computer: Tecnologias: </h2>
+   <p> Este projeto foi construído em apenas um idioma: JavaScript, usando as seguintes tecnologias:
 
    -   [Node.js](https://nodejs.org/en/)
    -   [React](https://reactjs.org/)
